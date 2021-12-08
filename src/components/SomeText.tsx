@@ -15,7 +15,7 @@ const SomeText = () => {
   return (
     <>
       <Heading as="h2" fontSize="3xl">
-        Hello
+        Halo !
       </Heading>
 
       <Box
@@ -24,7 +24,7 @@ const SomeText = () => {
         borderRadius={4}
       >
         <Box d="flex" alignItems="center" fontSize={textSize}>
-          This is a Next.js app with Chakra-UI and TypeScript setup.
+          Website ini akan membuatkan sapaan kepada waifu kamu yang tercinta ❤
         </Box>
       </Box>
     </>

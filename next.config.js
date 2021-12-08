@@ -14,5 +14,8 @@ module.exports = withPWA({
     dest: "public",
     register: true,
   },
+	images: {
+    domains: ['cdn.discordapp.com'],
+  },
   reactStrictMode: true,
 });
