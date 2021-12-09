@@ -13,7 +13,7 @@ const SomeImage = () => {
         marginX="auto"
       >
         <Image
-          src="https://cdn.discordapp.com/attachments/785715969317142540/918151750396043285/VEUehO01.svg"
+          src={`/${colorMode}_keqing.svg`}
           width={400}
           height={400}
           alt="Keqing YES"
