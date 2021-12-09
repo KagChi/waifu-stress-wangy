@@ -4,7 +4,6 @@ import {
   Heading,
   Image,
   Text,
-  Link as ChakraLink,
   useColorMode,
 } from "@chakra-ui/react";
 import Link from "next/link";
@@ -24,7 +23,7 @@ const Page404 = () => {
         marginX="auto"
       >
         <Image
-				  width={200}
+          width={200}
           height={200}
           src={`/${colorMode}_keqing_loss.svg`}
           alt="Keqing LOSS"
