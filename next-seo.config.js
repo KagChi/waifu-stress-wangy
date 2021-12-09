@@ -1,25 +1,21 @@
 /** @type {import('next-seo').DefaultSeoProps} */
 const defaultSEOConfig = {
-  title: "nextarter-chakra",
-  titleTemplate: "%s | nextarter-chakra",
-  defaultTitle: "nextarter-chakra",
-  description: "Next.js + chakra-ui + TypeScript template",
-  canonical: "https://nextarter-chakra.sznm.dev",
+  title: "waifu-stress-wangy",
+  titleTemplate: "%s | buat sapaan ke waifu anda",
+  defaultTitle: "waifu-stress-wangy",
+  description: "Apakah kamu bingung mau buat sapaan apa ke waifu kamu? ini adalah website yang tepat !",
+  canonical: "https://waifu-stress-wangy.vercel.app",
   openGraph: {
-    url: "https://nextarter-chakra.sznm.dev",
-    title: "nextarter-chakra",
-    description: "Next.js + chakra-ui + TypeScript template",
+    url: "https://waifu-stress-wangy.vercel.app",
+    title: "waifu-stress-wangy",
+    description: "Apakah kamu bingung mau buat sapaan apa ke waifu kamu? ini adalah website yang tepat !",
     images: [
       {
-        url: "https://og-image.sznm.dev/**nextarter-chakra**.sznm.dev.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fsznm.dev%2Favataaars.svg&widths=250",
-        alt: "nextarter-chakra.sznm.dev og-image",
+        url: "https://cdn.discordapp.com/attachments/785715969317142540/918144721048727572/5694-goodjobkeqing.jpg",
+        alt: "waifu-stress-wangy og-image",
       },
     ],
-    site_name: "nextarter-chakra",
-  },
-  twitter: {
-    handle: "@sozonome",
-    cardType: "summary_large_image",
+    site_name: "waifu-stress-wangy",
   },
 };
 
