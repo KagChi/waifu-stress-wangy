@@ -1,8 +1,10 @@
+import { useColorMode } from "@chakra-ui/react";
 import Image from "next/image";
 
 import MotionBox from "./motion/Box";
 
 const SomeImage = () => {
+  const { colorMode } = useColorMode();
   return (
     <>
       <MotionBox
